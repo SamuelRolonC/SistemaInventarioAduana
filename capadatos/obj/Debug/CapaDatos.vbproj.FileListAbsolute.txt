@@ -1,0 +1,121 @@
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.xml
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.xml
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.dll
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.xml
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.dll
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.xml
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.dll
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.xml
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.dll
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.xml
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaDatos\obj\Debug\AlmacenAduana.Datos.Resources.resources
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -1,0 +1,57 @@
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\bin\Debug\CapaNegocio.dll
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\bin\Debug\CapaNegocio.pdb
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\bin\Debug\CapaNegocio.xml
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\obj\x86\Debug\CapaPresentacion.vbproj.GenerateResource.Cache
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\obj\x86\Debug\CapaPresentacion.vbprojResolveAssemblyReference.cache
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fAlmacen.resources
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fDetalleMercaderia.resources
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fLogin.resources
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fMenuPrincipal.resources
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fNuevoIngreso.resources
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.Resources.resources
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\bin\Debug\CapaPresentacion.exe
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\bin\Debug\CapaPresentacion.pdb
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\bin\Debug\CapaPresentacion.xml
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\obj\x86\Debug\CapaPresentacion.exe
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\obj\x86\Debug\CapaPresentacion.xml
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\controlInventarAduana\obj\x86\Debug\CapaPresentacion.pdb
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.exe
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.xml
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.pdb
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\obj\x86\Debug\CapaPresentacion.exe
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\obj\x86\Debug\CapaPresentacion.xml
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\obj\x86\Debug\CapaPresentacion.pdb
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\bin\Debug\CapaPresentacion.exe
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\bin\Debug\CapaPresentacion.pdb
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\bin\Debug\CapaPresentacion.xml
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\bin\Debug\CapaNegocio.xml
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\obj\x86\Debug\CapaPresentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fAlmacen.resources
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fDetalleMercaderia.resources
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fLogin.resources
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fMenuPrincipal.resources
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fNuevoIngreso.resources
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.Resources.resources
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\controlInventarAduana\obj\x86\Debug\CapaPresentacion.vbproj.GenerateResource.Cache
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana[Capas]-clase\controlInventarAduana\obj\x86\Debug\CapaPresentacion.exe
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana[Capas]-clase\controlInventarAduana\obj\x86\Debug\CapaPresentacion.xml
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana[Capas]-clase\controlInventarAduana\obj\x86\Debug\CapaPresentacion.pdb
+C:\Users\Compumania\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.exe
+C:\Users\Compumania\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.xml
+C:\Users\Compumania\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.pdb
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.exe
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.xml
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.pdb
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.exe
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.xml
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.pdb
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fAlmacen.resources
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fDetalleMercaderia.resources
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fLogin.resources
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fMenuPrincipal.resources
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.fNuevoIngreso.resources
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\AlmacenAduana.Presentacion.Resources.resources
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\controlInventarAduana\obj\x86\Debug\CapaPresentacion.vbproj.GenerateResource.Cache

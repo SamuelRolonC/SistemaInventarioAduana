@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DA8D2B87-CA66-4686-AC48-8BF5F084EACF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AlmacenAduana.Presentacion.My.MyApplication</StartupObject>
+    <RootNamespace>AlmacenAduana.Presentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CapaPresentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CapaPresentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fClienteNuevo.Designer.vb">
+      <DependentUpon>fClienteNuevo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fClienteNuevo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fClienteDetalle.Designer.vb">
+      <DependentUpon>fClienteDetalle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fClienteDetalle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fGalponDetalle.designer.vb">
+      <DependentUpon>fGalponDetalle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fGalponDetalle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fClienteLista.Designer.vb">
+      <DependentUpon>fClienteLista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fClienteLista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fGalponNuevo.Designer.vb">
+      <DependentUpon>fGalponNuevo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fGalponNuevo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fGalponLista.Designer.vb">
+      <DependentUpon>fGalponLista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fGalponLista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUsuarioLista.Designer.vb">
+      <DependentUpon>fUsuarioLista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fUsuarioLista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMercaderiaDetalle.Designer.vb">
+      <DependentUpon>fMercaderiaDetalle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fMercaderiaDetalle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.designer.vb">
+      <DependentUpon>fLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMenuPrincipal.Designer.vb">
+      <DependentUpon>fMenuPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fMenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fGrupoDetalle.Designer.vb">
+      <DependentUpon>fGrupoDetalle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fGrupoDetalle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUsuarioNuevo.Designer.vb">
+      <DependentUpon>fUsuarioNuevo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fUsuarioNuevo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fGrupoLista.Designer.vb">
+      <DependentUpon>fGrupoLista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fGrupoLista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUsuarioDetalle.designer.vb">
+      <DependentUpon>fUsuarioDetalle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fUsuarioDetalle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mFuncsYProcs.vb" />
+    <Compile Include="fMercaderiaNueva.Designer.vb">
+      <DependentUpon>fMercaderiaNueva.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fMercaderiaNueva.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMercaderiaLista.Designer.vb">
+      <DependentUpon>fMercaderiaLista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fMercaderiaLista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="fGrupoNuevo.Designer.vb">
+      <DependentUpon>fGrupoNuevo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fGrupoNuevo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="fClienteDetalle.resx">
+      <DependentUpon>fClienteDetalle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fGalponDetalle.resx">
+      <DependentUpon>fGalponDetalle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fClienteLista.resx">
+      <DependentUpon>fClienteLista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fGalponNuevo.resx">
+      <DependentUpon>fGalponNuevo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fGalponLista.resx">
+      <DependentUpon>fGalponLista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUsuarioLista.resx">
+      <DependentUpon>fUsuarioLista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMercaderiaLista.resx">
+      <DependentUpon>fMercaderiaLista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fClienteNuevo.resx">
+      <DependentUpon>fClienteNuevo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMercaderiaDetalle.resx">
+      <DependentUpon>fMercaderiaDetalle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMenuPrincipal.resx">
+      <DependentUpon>fMenuPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fGrupoDetalle.resx">
+      <DependentUpon>fGrupoDetalle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMercaderiaNueva.resx">
+      <DependentUpon>fMercaderiaNueva.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUsuarioNuevo.resx">
+      <DependentUpon>fUsuarioNuevo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fGrupoLista.resx">
+      <DependentUpon>fGrupoLista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUsuarioDetalle.resx">
+      <DependentUpon>fUsuarioDetalle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fGrupoNuevo.resx">
+      <DependentUpon>fGrupoNuevo.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título43.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.vbproj">
+      <Project>{5FB4D79B-21B4-4E2D-91A8-729C7F23E3AC}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus_grey %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_enter %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock_mail_import.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc2_new_128 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_man_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_add_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group_add_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_add_blocked_128 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group_addblocked_128 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box1 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delivery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p_o4 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kwikdisk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_blocked_128 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_list %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_calendar_list %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

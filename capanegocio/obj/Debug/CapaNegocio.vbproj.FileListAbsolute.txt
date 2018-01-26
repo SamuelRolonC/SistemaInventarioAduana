@@ -1,0 +1,164 @@
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Samuel\Desktop\AlmacenAduana2\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Administrador\Downloads\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Samuel\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Samuel\Desktop\AlmacenAduanaSAMUEL\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Senpai\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.xml
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.xml
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.xml
+D:\Mis Cosas\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\Programacion II - Inventario Aduana\almacenaduana\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.xml
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.xml
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.xml
+E:\Usuarios\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.xml
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.xml
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\Usuarios\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Samuel\Dropbox\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Samuel\Dropbox\InventarioAduana2.0\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.pdb

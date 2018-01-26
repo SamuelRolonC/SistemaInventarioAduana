@@ -1,0 +1,30 @@
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\CapaNegocio\bin\Debug\CapaNegocio.xml
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\CapaNegocio\bin\Debug\CapaDatos.xml
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\CapaNegocio\obj\Debug\CapaNegocio.xml
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\Usuarios\Samuel\Google Drive\Carrera\Instituto\2017\Prog II\Practica\Practica de desarrollo\Inventario-Aduana-datagridview-capas\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Administrador\Downloads\AlmacenAduana[Capas]\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\AlmacenAduana.Negocio.Resources.resources
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Samuel\Dropbox\Programacion II - Inventario Aduana\AlmacenAduana\CapaNegocio\obj\Debug\CapaNegocio.pdb
